@@ -1,4 +1,4 @@
-## Olá! Eu sou o Rodolfo Silva, seja bem-vindo(a) ao meu GitHub 👋
+## Olá, eu sou o Rodolfo Silva. Seja bem-vindo(a) ao meu GitHub 👋
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodsillva/)
 [![discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/Rodolfo%20Silva#0084)

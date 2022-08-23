@@ -5,6 +5,10 @@
 
 ![Rodolfo GitHub stats](https://github-readme-stats.vercel.app/api?username=rodsillva&show_icons=true&theme=dracula)
 
+<!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodsillva&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+-->
+
 ## Linguagens
 <div style="display: inline_block">
     <img height="32" width="40" align="center" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />

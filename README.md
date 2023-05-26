@@ -9,19 +9,23 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodsillva&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
-## Linguagens
+## Back-end
 <div style="display: inline_block">
     <img height="32" width="40" align="center" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
     <img height="32" width="40" align="center" alt="Lua" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" />
     <img height="32" width="40" align="center" alt="C" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
     <img height="32" width="40" align="center" alt="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
     <img height="32" width="40" align="center" alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+</div>
+
+## Front-end
+<div style="display: inline_block">
     <img height="32" width="40" align="center" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
     <img height="32" width="40" align="center" alt="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
     <img height="32" width="40" align="center" alt="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 </div>
 
-## Análise & Engenharia de Dados
+## Dados
 <div style="display: inline_block">
     <img height="32" width="40" align="center" alt="Jupyter" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
     <img height="32" width="40" align="center" alt="Pandas" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
@@ -32,7 +36,7 @@
     <img height="40" width="40" align="center" hspace="4" alt="Anaconda" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original-wordmark.svg" />
 </div>
 
-## Visualização de Dados
+## DataViz
 <div style="display: inline_block">
     <img height="32" width="" align="center" alt="Power BI" src="https://seeklogo.com/images/P/power-bi-icon-logo-E1B451ED39-seeklogo.com.png" />
     <img height="32" width="" align="center" hspace="8" alt="Tableau" src="https://seeklogo.com/images/T/tableau-software-logo-F1CE2CA54A-seeklogo.com.png" />
@@ -66,6 +70,7 @@
 
 ## Frameworks
 <div style="display: inline_block">
+    <img height="32" width="40" align="center" alt="Flask" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
     <img height="32" width="40" align="center" alt=".NET" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" />
     <img height="32" width="40" align="center" alt="Xamarin" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xamarin/xamarin-original.svg" />
     <img height="32" width="40" align="center" alt="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
